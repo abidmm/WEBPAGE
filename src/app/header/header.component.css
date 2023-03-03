@@ -1,0 +1,29 @@
+.background
+{
+    background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url('src\assets\header.jpg');
+    width: 100%;
+    height: 77vh;
+    background-size: cover;
+    position: relative;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.content
+{
+    color: white;
+}
+
+h1
+{
+    font-weight: bold;
+}
+
+button{
+    width: 130px;
+}
+
+.title
+{
+    background-color: antiquewhite;
+}

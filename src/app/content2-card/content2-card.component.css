@@ -1,0 +1,52 @@
+.maincard
+{
+    background-color: #009970;
+    color: white;
+    padding: 20px;
+    width: 350px;
+    border-color: #009970;
+}
+
+.maincard i
+{
+    font-size: 12px;
+}
+.sub-card
+{
+    border-radius: 10px;
+    text-align: center;
+    border: none;
+    box-shadow: 0px 1px 6px 0px rgba(0, 0, 0, 0.1), 0 4px 15px 0 rgba(0, 0, 0, 0.10);
+    padding: 20px 0 20px 0;
+    min-width: 200px;
+}
+
+.sub-card i
+{
+    font-size: 30px;
+    color: #009970;
+    margin-bottom: 20px;
+
+}
+
+h2
+{
+    font-weight: 600;
+}
+
+.content
+{
+    padding-top: 28px;
+    padding-bottom: 15px;
+}
+
+
+
+.spacing{
+margin: auto;
+}
+
+.btn
+{
+    padding: 6px 30px 6px 30px;
+}

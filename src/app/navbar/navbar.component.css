@@ -1,0 +1,19 @@
+.navbody
+{
+    /* background-color: #009970; */
+    background-color: white;
+    height: 65px;
+    padding: 10px;
+}
+
+
+h3
+{
+    color: #006400;
+}
+
+
+button{
+    width: 130px;
+}
+

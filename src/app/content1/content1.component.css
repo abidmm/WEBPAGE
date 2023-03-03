@@ -1,0 +1,50 @@
+.content1
+{
+    background-color: #e4e4e4;
+}
+
+.content2
+{
+    color: #444444;
+}
+
+.content2 h3
+{
+    font-size: 25px;
+}
+
+
+.details
+{
+    background-color: #009970;
+    color: white;
+    padding-top: 37px;
+    padding-bottom: 20px;
+}
+
+img
+{
+    width: 45%;
+}
+
+h1
+{
+    font-weight: 680;
+    font-size: 50px;
+    margin-bottom: 25px;
+}
+
+h3
+{
+    font-weight: 500;
+}
+
+.icon
+{
+    color: #009970;
+}
+
+.details p
+{
+    font-size: 15px;
+}
